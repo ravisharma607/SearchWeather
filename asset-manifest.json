@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SearchWeather/static/css/main.69067125.css",
+    "main.js": "/SearchWeather/static/js/main.7768d4c5.js",
+    "static/media/wave.gif": "/SearchWeather/static/media/wave.81b3970e3e8448342ac1.gif",
+    "index.html": "/SearchWeather/index.html",
+    "main.69067125.css.map": "/SearchWeather/static/css/main.69067125.css.map",
+    "main.7768d4c5.js.map": "/SearchWeather/static/js/main.7768d4c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69067125.css",
+    "static/js/main.7768d4c5.js"
+  ]
+}
